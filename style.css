@@ -150,9 +150,14 @@ body {
 }
 
 .text,
-ul {
+ul,
+a {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
 }
 
 ul {
