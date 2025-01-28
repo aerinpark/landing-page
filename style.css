@@ -55,6 +55,8 @@ body {
 
 .image-box {
     background-color: rgb(208, 208, 208);
+    width: 40%;
+    height: auto;
     flex: 3;
     align-self: stretch;
     display: flex;
