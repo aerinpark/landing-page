@@ -144,6 +144,11 @@ body {
     padding: 5px 20px;
 }
 
+.footer .text{
+    padding: 35px 0;
+    text-align: center;
+}
+
 .text,
 ul {
     font-size: 18px;
